@@ -1,5 +1,5 @@
 [package]
-name = "hello_cargo"
+name = "ip_calculator"
 version = "0.1.0"
 authors = ["Thiago <thia.mdossantos@gmail.com>"]
 
